@@ -50,7 +50,7 @@ word-style-changer/
 
   ### 👩‍💻 AUTHOR
 
-**Rihab M.** — Full Stack Developer | Data Scientist
+**Rihab M.** — Full Stack Developer
 
 🔬 Passionate about building smart and scalable digital solutions using modern web technologies and data-driven approaches.
 
